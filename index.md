@@ -1,6 +1,5 @@
-| Calendar | Crop     |  Sign Up  | Donations | Garden trivia | Contact Us | About Us |
-|          | Rotation | Volunteer |           |   and jokes   |            |          |
-| -------- | ---------| -----     | ---       | ---           | ---        | ---      |
+| Calendar | Crop Rotation | Sign Up/Volunteer | Donations | Garden trivia and jokes | Contact Us | About Us |
+| -------- | ---------     | -----             | ---       | ---                     | ---        | ---      |
 
 
 Hello!
