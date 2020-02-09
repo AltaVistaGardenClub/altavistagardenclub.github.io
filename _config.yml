@@ -1,3 +1,17 @@
 theme: jekyll-theme-cayman
 title: Welcome to Alta Vista Elementary's Garden Club homepage!
 #description: Feel free to bookmark to keep up to date with what's happening in our school's garden!
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
